@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StarCheck 🚀
 AI-powered compliance and fleet optimization platform.
 
@@ -18,3 +19,7 @@ AI-powered compliance and fleet optimization platform.
 3. Run app:
    ```bash
    streamlit run app.py
+=======
+# starcheck-demo
+Predictive maintenance demo app (StarCheck) for Voyageur Aviation – powered by Streamlit.
+>>>>>>> afcc1bccd2045917f63ed48e188501dad3137ce4
