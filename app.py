@@ -1,4 +1,15 @@
 import streamlit as st
+
+st.title("🚀 StarCheck Demo")
+st.write("App is online and working!")
+
+# 👇 Your existing code stays below here
+
+
+
+
+
+import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
